@@ -1,2 +1,3 @@
 Hi! I'm bob,I am new here.
 I made some changes in bob.txt on the master branch
+I am adding a divergent in branch
